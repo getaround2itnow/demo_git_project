@@ -1,0 +1,1 @@
+print("It is mainly important to not obstruct a drain.")
